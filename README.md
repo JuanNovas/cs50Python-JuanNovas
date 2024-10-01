@@ -12,3 +12,7 @@ This course teaches you how to solve problems using Python, with an emphasis on 
 - OOP
 - Algorithms
 - Problem solving
+
+## 🎓 Diploma
+![Diploma image](diploma.png)
+[Verification link](https://certificates.cs50.io/abaaa374-167b-47bf-8587-179d9f2bfb0a.pdf?size=letter)
